@@ -202,6 +202,9 @@ img.border {
   color: #333;
   padding-bottom: 30px;
 }
+.blog p {
+  font-size: 28px;
+}
 
 /* card section */
 .card-wrap {
